@@ -22,10 +22,6 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `useState`: Hook no React que permite adicionar estado a componentes funcionais.
 - `Manipulação de eventos`: Ação de responder a interações do usuário, como cliques e teclas pressionadas, em aplicações web.
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/MonicaHillman/3492-React-componentesi/tree/projeto-base) ou [baixá-lo](https://github.com/MonicaHillman/3492-React-componentes/archive/refs/heads/projeto-base.zip).
-
 ## 🎨 Figma
 
 Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
